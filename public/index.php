@@ -1,5 +1,6 @@
 <?php
 echo "jenkins auto deploy";
+echo "welcome bapu"
 use App\Kernel;
 use Symfony\Component\Debug\Debug;
 use Symfony\Component\HttpFoundation\Request;
