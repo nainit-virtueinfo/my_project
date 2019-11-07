@@ -1,0 +1,6 @@
+-#!/bin/sh     
+ssh root@94.237.89.129 <<EOF
+/var/www/html/my_project/
+git pull      
+ exit      
+EOF
