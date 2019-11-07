@@ -1,2 +1,2 @@
 # my_project
-vi-tes
+vi-test
